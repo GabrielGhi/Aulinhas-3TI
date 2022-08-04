@@ -46,7 +46,7 @@ if(isset($_POST['sub'])){
 
       <form method="post" enctype="multipart/form-data">
         <div class="input-group mb-3">
-          <input type="email" class="form-control" placeholder="Email" name="user">
+          <input type="text" class="form-control" placeholder="Email" name="user">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-envelope"></span>
